@@ -1,0 +1,17 @@
+# remove intellij folder for good ..
+**/.idea/*
+# .. except for file templates
+!**/.idea/fileTemplates
+.gradle
+gradle.properties
+*.iml
+build
+out
+target
+_user1
+deployment/updates/prod
+wawiClient0.log
+wawiClient0.log.lck
+**/nb-configuration.xml
+.DS_Store
+
